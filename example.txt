@@ -1,0 +1,3 @@
+hi iam vasanth practising git 
+just checking the copy branch things and push and pull requsts 
+commit to the git and then push to the remote repo nothing but github 
